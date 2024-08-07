@@ -1,2 +1,2 @@
-# terraform-terragrunt
-Hands-on experience with terragrunt tool
+# Multi-environment setup
+Hands-on experience with related tools.  
